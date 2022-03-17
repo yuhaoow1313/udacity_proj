@@ -1,2 +1,2 @@
 # udacity_proj
-Submission of projects for Udacity Intro to ML course
+Submission of projects for Udacity Intro to ML with TensorFlow course
